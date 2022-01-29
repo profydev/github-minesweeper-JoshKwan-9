@@ -9,6 +9,17 @@
     "Flag E5",
     "Clear E6",
     "Flag E7",
-    "Clear E8"
+    "Clear E8",
+    "clear F5",
+    "clear G3",
+    "Clear G4",
+    "clear G5",
+    "flag G2",
+    "clear G1",
+    "flag C2",
+    "clear C1",
+    "flag B2",
+    "Clear A2",
+    "flag B1"
   ]
 }
